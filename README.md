@@ -5,7 +5,7 @@ Email: luxtio1970@gmail.com
 Paese: Italia
 
 **Dati raccolti**
-Questa applicazione non raccoglie dati personali direttamente.
+Questa applicazione: **MyBestBeer** non raccoglie dati personali direttamente.
 Tuttavia utilizza servizi di terze parti che possono raccogliere dati necessari al funzionamento della pubblicità.
 
 **Pubblicità**
