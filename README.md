@@ -1,35 +1,51 @@
-**Titolare del trattamento**
-Davide Polcaro
-Email: luxtio1970@gmail.com
+# Privacy Policy
 
-Paese: Italia
+La presente Privacy Policy descrive le modalità di gestione dei dati personali
+relative all’applicazione **MyBestBeer** (di seguito “App”),
+sviluppata da **luxtio**.
 
-**Dati raccolti**
-Questa applicazione: **MyBestBeer** non raccoglie dati personali direttamente.
-Tuttavia utilizza servizi di terze parti che possono raccogliere dati necessari al funzionamento della pubblicità.
+---
 
-**Pubblicità**
-L’app utilizza **Google AdMob**, un servizio di advertising fornito da Google LLC / Google Ireland Ltd.
-AdMob può raccogliere:
-- Identificativi del dispositivo
-- Dati di utilizzo
-- Indirizzo IP (anche in forma anonimizzata)
+## Titolare del trattamento
 
-I dati vengono utilizzati per mostrare annunci pubblicitari personalizzati o non personalizzati, in base al consenso espresso dall’utente.
+**Davide Polcaro** – sviluppatore indipendente  
+Email di contatto: **luxtio1970@gmail.com**  
+Paese: Italia  
 
-**Base giuridica**
-Il trattamento dei dati avviene sulla base del consenso dell’utente, richiesto tramite apposito modulo conforme al GDPR.
+Il titolare del trattamento è responsabile del rispetto della normativa vigente
+in materia di protezione dei dati personali.
 
-**Gestione del consenso**
-L’utente può accettare o rifiutare la pubblicità personalizzata alla prima apertura dell’app e può modificare le proprie preferenze in qualsiasi momento reinstallando l’app.
+---
 
-**Diritti dell’utente**
-Ai sensi del GDPR, l’utente ha diritto di:
-- Accedere ai propri dati
-- Chiederne la cancellazione
-- Opporsi al trattamento
+## Tipologia di dati raccolti
 
-Per esercitare tali diritti è possibile contattare il titolare via email.
+Questa App **non raccoglie direttamente dati personali** dell’utente.
 
-**Modifiche**
-La presente Privacy Policy può essere aggiornata. Le modifiche saranno pubblicate su questa pagina.
+Tuttavia, l’App utilizza **servizi di terze parti** che possono raccogliere
+alcuni dati tecnici necessari al funzionamento della pubblicità.
+
+I dati che possono essere raccolti includono, a titolo esemplificativo:
+- identificativi del dispositivo
+- dati di utilizzo dell’App
+- indirizzo IP (anche in forma anonimizzata)
+
+---
+
+## Finalità del trattamento
+
+I dati eventualmente raccolti tramite servizi di terze parti vengono utilizzati
+per le seguenti finalità:
+- visualizzazione di annunci pubblicitari
+- gestione e ottimizzazione della pubblicità
+- miglioramento dell’esperienza utente
+
+---
+
+## Servizi di terze parti
+
+L’App utilizza il seguente servizio di terze parti:
+
+### Google AdMob
+
+Google AdMob è un servizio di advertising fornito da  
+**Google**
