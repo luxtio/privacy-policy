@@ -11,12 +11,9 @@ Tuttavia utilizza servizi di terze parti che possono raccogliere dati necessari 
 **Pubblicità**
 L’app utilizza **Google AdMob**, un servizio di advertising fornito da Google LLC / Google Ireland Ltd.
 AdMob può raccogliere:
-
-Identificativi del dispositivo
-
-Dati di utilizzo
-
-Indirizzo IP (anche in forma anonimizzata)
+- Identificativi del dispositivo
+- Dati di utilizzo
+- Indirizzo IP (anche in forma anonimizzata)
 
 I dati vengono utilizzati per mostrare annunci pubblicitari personalizzati o non personalizzati, in base al consenso espresso dall’utente.
 
