@@ -2,7 +2,7 @@
 
 La presente Privacy Policy descrive le modalità di gestione dei dati personali
 relative all’applicazione **MyBestBeer** (di seguito “App”),
-sviluppata da **luxtio**.
+sviluppata da **Luxtio Studio**.
 
 ---
 
